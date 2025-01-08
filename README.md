@@ -1,6 +1,6 @@
 ## *Portfolio*
 
-### Hello, I'm Shweta Kamble 👋
+### Hello, I'm H B Samruddi 👋
 
 I am passionate about leveraging technology to solve real-world problems and making an impact through creative solutions. 
 Here's a glimpse into my journey:  
@@ -8,46 +8,28 @@ Here's a glimpse into my journey:
 
 ## 🛠 Projects
 
-### *Bookshop Management System*  
+### *Pollution-Free City*  
 
 *OVERVIEW:*  
 
-
-Inventory Management:
-Book Catalog: A detailed list of books available in the shop, with information such as title, author, publisher, genre, price, and stock levels.
-Stock Management: Tracks the number of copies of each book in the store, and alerts when stock is low or needs to be reordered.
-
-Sales Management:
-Point of Sale (POS): Allows cashiers to process book sales quickly, generating invoices or receipts. The system calculates prices, applies discounts, and handles payments (cash, card, or digital).
-Sales Reports: Generates reports on sales performance, daily transactions, or specific book sales. It helps analyze trends and monitor sales goals.
-
-Customer Management:
-Customer Database: Keeps track of customer information such as names, contact details, and purchase history. This can help personalize marketing campaigns or promotions.
-Loyalty Programs: Allows for the implementation of loyalty programs, where customers earn points or rewards for repeat purchases.
-
- Purchase and Ordering:
-Purchase Orders: The system helps create orders for restocking based on current inventory levels. It tracks orders placed with suppliers, their status, and the expected delivery dates.
-Automatic Reordering: Some systems can automatically reorder books based on predefined stock thresholds or sales trends.
+- *Efficient Navigation:* Provide optimized, eco-friendly transportation using electric vehicles, bicycles, and shuttles, supported by real-time traffic and route updates.
+- *Resource Management:* Dynamically allocate transportation and maintenance resources using advanced algorithms for peak efficiency.
+- *Environmental Monitoring:* Deploy IoT sensors for real-time tracking of air and noise pollution, enabling proactive measures.
+- *User-Friendly Interface:* Develop accessible apps and dashboards for tourists, residents, and administrators for seamless interaction.
 
 *Technical Stack:*  
 
-- *Languages:* C++ 
-- *Algorithms:* Dijkstra’s, linear search,binary search,merge sorting,quick sort, Hashing, Graph Traversal (DFS/BFS)
+- *Languages:* C++, Java  
+- *Algorithms:* Dijkstra’s, A*, KMP, Chain Hashing, Graph Traversal (DFS/BFS)
 - *Tools:* Graphs, DAA Optimization Techniques  
 
 *Impact:*  
-- *Improved Efficiency and Productivity
-Automation of Routine Tasks: A BMS automates tedious processes like inventory tracking, sales processing, and generating invoices. This reduces manual errors and the time spent on repetitive tasks.
-Faster Checkout Process: Cashiers can process transactions more quickly, enhancing customer satisfaction by reducing wait times at the point of sale.
-Simplified Inventory Management: The system provides real-time tracking of stock levels, automated reordering, and alerts when inventory is low. This minimizes stockouts and overstocking, optimizing storage and procurement.
-- *Enhanced Customer Experience
-Personalized Service: Customer data, such as purchase history and preferences, can be used to recommend books, run loyalty programs, or send personalized offers, improving customer loyalty and engagement.
-Faster and More Accurate Transactions: Automated sales processing ensures accuracy in billing, discounts, and taxes, making transactions smooth and error-free.
-Availability of Products: With effective inventory management, customers are more likely to find the books they are looking for, even if they request a specific title, reducing the likelihood of lost sales.
-- *Data-Driven Decision Making
-Sales and Inventory Analytics: The BMS generates detailed reports that give insights into best-selling titles, customer preferences, and trends. This helps bookshop owners make better purchasing decisions and plan promotions more effectively.
-Financial Insights: Real-time access to financial data helps managers understand cash flow, profit margins, and cost structures, enabling better budgeting and financial planning.
-Performance Tracking: The system can track key performance indicators (KPIs), such as sales growth, customer retention, and stock turnover rates, offering a clear picture of business health.
+
+- *Environmental Preservation:* Reduces air and noise pollution to protect Matheran’s natural environment and biodiversity.
+- *Enhanced Mobility:* Offers eco-friendly, congestion-free transportation, improving accessibility for residents and tourists.
+- *Economic Boost:* Drives eco-tourism growth and optimizes resource use for cost-effective, sustainable development.
+- *Health and Lifestyle Benefits:* Promotes cleaner air, quieter surroundings, and active lifestyles through non-motorized transport.
+- *Global Benchmark for Sustainability:* Establishes Matheran as a leading example of eco-conscious urban planning and tourism.
 
 ## 🚀 *Skills*  
 
@@ -59,33 +41,33 @@ Performance Tracking: The system can track key performance indicators (KPIs), su
 
 ## 🌐 *Find Me Online*
 
-- [GitHub](https://github.com/shwetakamble-163/Bookshop-Management-System/edit/main/README.md)
-- [LinkedIn](https://www.linkedin.com/in/shweta-kamble-571311345/)
+- [GitHub](https://github.com/Samruddi11/portfolioo.github.io)
+- [LinkedIn](https://www.linkedin.com/in/h-b-samruddi-5a0372306/)
 
 ## Portfolio Highlights
 
 ### 🎯 *Topic:* 
 
 - DAA (Design and Analysis of Algorithms)  
-- Focus: Algorithmic Problem Solving for Bookshop Management System
+- Focus: Algorithmic Problem Solving for Pollution cities  
 
 ### 📋 *Details:*
 
 - *Course Name:* Algorithms Lab 
 - *Course Code:* 24ECAP202  
-- *Name:* Shweta Kamble
-- *SRN:* 02FE23BCS163  
-- *Course Instructor:* Vaishali Parab  
+- *Name:* H B Samruddi 
+- *SRN:* 02FE23BCI052  
+- *Course Instructor:* Priyanka Gavade  
 - *University:* KLE TECHNOLOGICAL UNIVERSITY
-- *Topic:* Bookshop Management System
+- *Topic:* Pollution-Free City
 
 ---
 
 ## 🎨 *What Drives Me*  
 - 💻 Constantly exploring new technologies and applying them creatively.  
 - 🤝 Helping others grow while improving myself every day.  
-- 📈 Learning new skills in my engineering experience.
+- 📈 Maintaining a stellar GPA of 9.0 in my B.E. in Computer Science & Engineering (AI) program.  
 
 ---
 
-This portfolio showcases my commitment to pushing boundaries and creating solutions that matter. Lets's connect and build something extraordinary together!
+This portfolio showcases my commitment to pushing boundaries and creatin
